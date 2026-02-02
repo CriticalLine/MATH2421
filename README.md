@@ -1,41 +1,43 @@
-# <mark>COMP2211</mark> <mark>Exploring Artificial Intelligence</mark>
+# MATH2421 Probability
 
-HKUST <mark>COMP2211</mark> - <mark>Fall 2025</mark>
+HKUST MATH2421 - Spring 2026
 
-Instructor: <mark>[XIAO Huiru](https://huiruxiao.github.io/)</mark>
+Instructor: [Ke Wang](https://www.math.hkust.edu.hk/~kewang/)
 
 ## About
 
-This repository contains course materials and resources for <mark>COMP2211 (Exploring Artificial Intelligence)</mark> at HKUST.
+This repository contains course materials and resources for MATH2421 (Probability) at HKUST.
 
 It is an **unofficial** backup of the course.
 
 ## Contents
 
 - Lecture notes
-- Assignments
-- <mark>Lab exercises</mark>
+- Assignments and solutions
+- Tutorial problems and solutions
 - Past exam papers
-- Homepage of the course: <mark>[COMP2211 Course Page](https://course.cse.ust.hk/comp2211/)</mark>
 
 ## Lecture Videos
 
-<mark>[Lecture Recordings on YouTube](https://www.youtube.com/playlist?list=PLShSJqjCpwn8JzMlubymWv7WpevXSrJ8u)</mark>
+[Lecture Recordings on YouTube](https://www.youtube.com/playlist?list=PLShSJqjCpwn9XAQDMdKI1Mm4fswU4oILx)
 
 ## Course Information
 
 - **Institution**: Hong Kong University of Science and Technology
-- **Semester**: <mark>Fall 2025</mark>
+- **Semester**: Spring 2026
+- **Course Code**: MATH2421
+- **Course Title**: Probability
+- **Credits**: 4
+- **Prerequisites**: MATH 1014 OR MATH 1020 OR MATH 1024
+- **Exclusions**: IEDA 2510, IEDA 2520, MATH 2431, EEC 2600, ELEC 2600H, ISOM 3540
 
 ## Getting Started
 
 Clone this repository to access course materials:
 
-<mark>
 ```bash
-git clone https://github.com/CriticalLine/COMP2211.git
+git clone https://github.com/CriticalLine/MATH2421.git
 ```
-</mark>
 
 ## Development
 
